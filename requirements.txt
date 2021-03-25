@@ -3,3 +3,4 @@ nyawc==1.7.8
 requests==2.18.1
 requests_toolbelt==0.8.0
 selenium==3.4.3
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
